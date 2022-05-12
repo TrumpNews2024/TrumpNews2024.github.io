@@ -1,0 +1,202 @@
+body{
+    color: white !important;
+    background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(67, 67, 67)) !important;
+    font-family: 'Poppins', sans-serif !important;
+
+}
+
+.book-image{
+    width: 80% !important;
+}
+.text-above-book-image{
+    font-weight: 900 !important;
+    font-size: 48px !important;
+}
+b{
+    color: #9a3940 !important;
+}
+.price-new{
+    color: #9a3940 !important;
+    font-size: 30px;
+    margin-left: 5px;
+    margin-top: 7px;
+}
+
+.checked {
+    color: #ffc700 !important;
+  }
+.deal-heading{
+    text-align: center !important;
+    color: #9a3940 !important;
+    margin-top: 10% !important;
+    margin-bottom: 5% !important;
+}
+
+.click_btn {
+    width: 100%;
+    background: transparent;
+    border: 2px solid #ffffff38;
+    color: #000 !important;
+    padding: 20px;
+    position: relative;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.click_btn:hover {
+    width: 100%;
+    background: transparent;
+    border: 2px solid #9a3940;
+    color: #000 !important;
+    padding: 20px;
+    position: relative;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+a{
+    font-style: normal !important;
+    text-decoration: none !important;
+}
+
+.test-price{
+    color: #9a3940 !important;
+}
+.Payment-Methods-Logo{
+    width: 80px !important;
+}
+@media (max-width: 767px){
+.Payment-Methods-Logo {
+    width: 60px;
+    margin-bottom: 5px;
+}
+}
+
+.center {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+ .secure-logo{
+    width: 200px !important;
+    color: #9a3940 !important;
+}
+
+@media (max-width: 767px){
+    .secure-logo {
+        width: 130px !important;
+        margin-right: 0 !important;
+        text-align: center !important;
+    }
+    }
+
+.text-center{
+    text-align: center !important;
+}
+
+#Secure{
+    margin-top: 15% !important;
+    margin-bottom: 15% !important;
+}
+.trump-secure{
+    width: 40% !important;
+    margin-top: 10% !important;
+}
+@media (max-width: 767px){
+    .trump-secure{
+        width: 80% !important;
+        margin-top: 10% !important;
+    }
+    }
+
+
+    .card_col {
+        border: 1px solid #ffffff59;
+        padding: 20px;
+        cursor: pointer;
+        box-shadow: rgb(60 64 67 / 30%) 0px 1px 2px 0px, rgb(60 64 67 / 15%) 0px 2px 6px 2px;
+        margin-bottom: 20px;
+    }
+    
+    .cut_price2 {
+        text-decoration: line-through;
+        color: #4B5057;
+        font-size: 23px;
+    }
+    
+    .new_price2 {
+        color: #fff;
+        font-size: 30px;
+        margin-left: 5px;
+        margin-top: 7px;
+    }
+    
+    .avail_num {
+        color: #f23a21;
+    }
+    .image-card{
+        max-width: 80%;
+    }
+    .card_col:hover{
+        border: 1px solid #9a3940 !important;
+    }
+
+.image-review{
+    border-radius: 55% !important;
+    width: 50px !important;
+    height: 50px !important;
+}
+
+.name-review{
+    margin-top: 15px !important;
+}
+.test_img{
+    width: 50px !important;
+    border-radius: 50% !important;
+    height: 50px !important;
+    margin-top: 15px !important;
+}
+.testimonial {
+    background-color: #9a3940;
+    border: 1px solid #4B5057;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 767px){
+.testimonial {
+    margin-right: 0;
+}
+}
+.reviews-header{
+    margin-top: 5% !important;
+    margin-bottom: 5% !important;
+    font-weight: 900 !important;
+    font-size: 36px !important;
+}
+
+#Book-Pack{
+    margin-bottom: 15% !important;
+}
+#Customers{
+    margin-bottom: 15% !important;
+}
+#Guarantee{
+    margin-bottom: 15% !important;
+  
+}
+#Landing-Page{
+    margin-top: 15% !important;
+}
+.footer-CR{
+    text-align: center !important;
+}
+
+footer{
+    background-color: #000 !important;
+    padding: 20px !important;
+    text-align: center !important;
+}
